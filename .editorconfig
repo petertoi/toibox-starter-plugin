@@ -1,0 +1,21 @@
+# editorconfig.org
+
+root = true
+
+[*]
+indent_style = space
+indent_size = 2
+end_of_line = lf
+charset = utf-8
+trim_trailing_whitespace = true
+insert_final_newline = true
+
+[*.js]
+indent_style = tab
+ij_javascript_chained_call_dot_on_new_line = true
+
+[*.php]
+indent_size = 4
+
+[resources/views/**.php]
+indent_size = 2

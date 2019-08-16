@@ -1,0 +1,12 @@
+{
+  "devUrl": "https://dev.test/",
+  "watch": [
+    "app/**/*.php",
+    "public/**/*",
+    "resources/views/**/*.php"
+  ],
+  "paths": {
+    "assets": "resources/assets",
+    "output": "public"
+  }
+}

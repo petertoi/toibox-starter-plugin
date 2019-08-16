@@ -1,0 +1,3 @@
+# https://make.wordpress.org/core/handbook/best-practices/browser-support/
+
+extends @wordpress/browserslist-config
